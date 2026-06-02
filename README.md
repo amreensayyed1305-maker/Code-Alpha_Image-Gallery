@@ -1,2 +1,18 @@
-# Code-Alpha_Image-Gallery
-A responsive image gallery built using HTML, CSS, and JavaScript, featuring categorized collections of food, nature, and animal images with a clean and user-friendly interface.
+# Image Gallery
+
+A responsive image gallery website built using HTML, CSS, and JavaScript.
+
+## Features
+- Responsive design
+- Categorized image collections
+- Food, Nature, and Animal galleries
+- Clean and user-friendly interface
+- Mobile-friendly layout
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+  
+## Author
+Amreen Sayyed
